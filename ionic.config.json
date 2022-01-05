@@ -1,0 +1,8 @@
+{
+  "name": "cocinapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1f570e1b"
+}
